@@ -22,7 +22,6 @@ an accurate understanding of models and the reasons they are created in the firs
 
 ### What are (my/the) perceived strengths and weaknesses that I have observed?
 *Strengths*: Different approaches to models, REDCAPE, why models are used and bias.  
-
 *Weaknesses*: Wisdom of the crowd (more info next lecture), how models help us strategise and design.
 
 ### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
@@ -33,5 +32,5 @@ Focus with no distractions, do the reflection the same day as the class (rather 
 to the best of my ability.
 
 ### What theory proved to be useful and why? What have I learnt from this?
-In refleccting upon REDCAPE, it was useful to observe all the different reasons for implementing a model. I learnt there are multiple reasons to implement a model rather than
+In reflecting upon REDCAPE, it was useful to observe all the different reasons for implementing a model. I learnt there are multiple reasons to implement a model rather than
 for the sole use of explaining a difficult concept.

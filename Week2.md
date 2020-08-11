@@ -21,8 +21,9 @@ In reflecting upon the learning process during the lecture, I understood the 7 u
 an accurate understanding of models and the reasons they are created in the first place.
 
 ### What are (my/the) perceived strengths and weaknesses that I have observed?
-*Strengths*: Different approaches to models, REDCAPE, why models are used and bias
-*Weaknesses*: Wisdom of the crowd (more info next lecture), how models help us strategise and design
+*Strengths*: Different approaches to models, REDCAPE, why models are used and bias.  
+
+*Weaknesses*: Wisdom of the crowd (more info next lecture), how models help us strategise and design.
 
 ### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
 Possibly the maths in the wisdom of the crowd section, but apparently I don't need to understand all that. I felt that a lot of content repeated itself so I lost focus quickly.

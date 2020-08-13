@@ -22,8 +22,8 @@ rational thinking, behavioural or a set of rules. Some signals are costly and ot
 Costliness carries meaning.
 
 ### What are (my/the) perceived strengths and weaknesses that I have observed?
-*Strengths*: Multiple models of people, fixed and adaptive rule-based models, normative and positive decision making, discrete signals vs continous signals, perspective.
-*Weaknesses*: Shapley value (get the concept, not the maths)
+*Strengths*: Multiple models of people, fixed and adaptive rule-based models, normative and positive decision making, discrete signals vs continous signals, perspective.  
+*Weaknesses*: Shapley value (got the concept, not the maths)
 
 ### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
 Shapley value maths, I handled the overall concept however not the maths. 

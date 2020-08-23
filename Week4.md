@@ -21,7 +21,7 @@ In reflecting upon the learning process during the lecture, I understood system 
 System dynamics can also represent stocks, flows, sources and sinks. ABM helped me gain insight into 1:1 models which are common.
 
 ### What are (my/the) perceived strengths and weaknesses that I have observed?
-*Strengths*: Network models (done before), all the other models, system dynamics. 
+*Strengths*: Network models (done before), all the other models, system dynamics.  
 *Weaknesses*: Some of the casual loop diagrams; e.g. reinforcing and balancing loop interactions.
 
 ### What were the challenges I have encountered/observed and how well (did I/my team) handle them?

@@ -188,3 +188,38 @@ Search for applications of these models in a business environment.
 In reflecting upon this lecture, it was useful to understand how aggregating data can help us in daily life and enhance our ability to understand topics. However, the TED talk
 was the most interesting to me because of Geoff's theory that cities live forever. This is due to a constant cycle of design and innovation as a result of an 
 ever-increasing population.
+
+
+
+## Week 6
+### What have I learnt this week?
+This lecture taught me about how complex systems evolve over time, equilibriums in the Markov convergence theorem and various models and Lyapunov functions. Knowledge about
+decision making and how making the correct decision can make a big impact on a system. 
+
+### This week I learned about:
+ - Markov models and the convergence theorem
+ - Random walk models, Markov chain which is a memoryless random walk
+ - Implications of random walks and the decision making process
+ - Granovetter's riot model, broadcast model, diffusion model, bass model, SIR model
+ - Lyapunov functions
+
+### What do I 'now know' that I did not before?
+Upon reflection, I now understand significantly more models than before. These models include the Markov model which measure how likely it is for something to transition or 
+move between states. A random walk model describes a path from a series of random steps on some mathematical space - after N even flips of a coin where heads is +1 and tails is -1, you can expect to reach 0 if N is large. Granovetter's riot model states that everyone has a riot threshold and if the number of rioters exceeds that threshold, the individual will join in - this shows the importance of the entire distribution and not just the mean. A broadcast model captures the spread of ideas and information through media, and often has an r-shaped curve. The diffusion model assumes that when one person gets new technology or a disease, it has some probability of spreading or being adopted by someone they come into contact with. The bass model combines diffusion and broadcast models. The SIR model is similar to the diffusion model but it states that someone may recover from a disease and become infected again. <br>
+A Lyapunov function is when f(x) has a max/min and if it changes state, it needs to approach the max/min eventually and go to equilibrium. It is possible to calculate the number of cycles needed for equilibrium. It is path dependent and not a stochastic process unlike a Markov model.
+
+### What insights have I gained?
+In reflecting upon the learning process during the lecture, I gained insight into how the SIR model can be used to explain the virulence of diseases and how effective a vaccine is. Using data online and the lecture notes, I found that R0 for COVID-19 is 3.5 and given this, we can calculate what percentage of the population need to be vaccinated against it to prevent it from spreading. 1-(1/3.5) ≈ 71% and this means that vaccinating 70% will have no effect and COVID will still spread. If 72% are vaccinated, it will cease to spread. I found this quite interesting and it showed how important vaccines can be. The mention of the diffusion and broadcast models also made me think about COVID and how it can spread between people and the broadcast probability on the news.
+
+### What are (my/the) perceived strengths and weaknesses that I have observed?
+*Strengths*: All the models and convergence theorems. I have previous knowledge in matrix multiplication and binomial probability so it wasn't too difficult to understand.    
+*Weaknesses*: Didn't quite understand the bell curve superimposed with the S-shaped diffusion curve? Application of Lyapunov functions.
+
+### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+I realised that the bell curve reflects the data on the S-shaped curve. I.e. the majority (in the middle of the bell curve) is when most people get the disease or adopt the technology. Towards the end of the S-shaped curve lies the laggards. I learnt about the Lyapunov function and understood how it reaches an equilibrium unlike Zeno's paradox. I had previous knowledge on Zeno's paradox (I did an assignment on it with formal mathematics) so it wasn't too hard.
+
+### What would I do better next time and with what anticipated results?
+Maybe some pictures of the SIR model or Lyapunov function, although the Lyapunov function pictures are quite difficult to understand. It will help me in the future when I refer back to these notes.
+
+### What theory proved to be useful and why? What have I learnt from this?
+The Markov convergence theory proved to be the most useful to me because it explained how when a few assumptions hold true, a system will tend towards an equilibrium eventually. If the system has a finite number of states, fixed transition probabilities, have a way of transitioning states and have a somewhat complex cycle (aperiodicity), the system will reach one unique equilibrium. This is useful for a wide range of topics such as science, music and the economy such as GDP changes.

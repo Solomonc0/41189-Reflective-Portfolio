@@ -190,7 +190,6 @@ was the most interesting to me because of Geoff's theory that cities live foreve
 ever-increasing population.
 
 
-
 ## Week 6
 ### What have I learnt this week?
 This lecture taught me about how complex systems evolve over time, equilibriums in the Markov convergence theorem and various models and Lyapunov functions. Knowledge about
@@ -223,3 +222,37 @@ Maybe some pictures of the SIR model or Lyapunov function, although the Lyapunov
 
 ### What theory proved to be useful and why? What have I learnt from this?
 The Markov convergence theory proved to be the most useful to me because it explained how when a few assumptions hold true, a system will tend towards an equilibrium eventually. If the system has a finite number of states, fixed transition probabilities, have a way of transitioning states and have a somewhat complex cycle (aperiodicity), the system will reach one unique equilibrium. This is useful for a wide range of topics such as science, music and the economy - e.g. GDP changes.
+
+
+## Week 7
+### What have I learnt this week?
+This lecture taught me about complexity and emergent behaviour. The lecture went over multiple models that show the spreading of information or ideas from a specific source. 
+
+### This week I learned about:
+ - Schelling's segregation model and how micro-motive does not equal macro-behaviour
+ - An example about Granovetter's riot model
+ - Standing ovation model
+ - Axelrod's model
+ - Emergence of culture
+ - Replicator dynamics
+ - Fisher's Theorem
+
+### What do I 'now know' that I did not before?
+Upon reflection, I now understand the different models associated with a source spreading information. This includes Schelling's segregation model where depending on the amount of people that are similar to you in your neighbourhood, you decide to move or stay. E.g. there are wealthy areas and poor areas and you tend to stick with whatever reflects your income more. The hat example about Granovetter's riot model helped me to understand the concept more. If person A wears a hat and person B has a threshold of 1, then they join in too and wear the hat. If everyone's threshold is >=1, no-one will take the initiative to wear the hat. The standing ovation model is similar (everyone has a threshold T) but there are multiple factors that influence an individual standing up - the crowd's objective judgement Q and your own subjective filter of the performance E. Signal S=Q+E and if S>T you stand. You also stand if the majority of the crowd stand regardless of your subjective opinion. Axelrod's model is where there is a grid of people with certain feature-trait combinations, and each person looks at their neighbour and may change a trait based on what their neighbour is doing. Emergence of culture is where one culture adapts qualities from another which relates to company culture which is the shared ethos of an organisation. <br>
+Replicator dynamics are used in psychology, economics and ecology to model learning and evaluation. Fisher's theorem explains that variation is important to social adaptation of an idea or concept.
+
+### What insights have I gained?
+In reflecting upon the learning process during the lecture, I gained insight into how variance can drive and change behaviour in a society. I now know the explanation behind why people of different races, ethnicities and incomes tend to stick together. I did not really understand or know there were so many ways to model a change in a group's behaviour prior to this lesson. In the future, I will now know the reason behind these changes in behaviour.
+
+### What are (my/the) perceived strengths and weaknesses that I have observed?
+*Strengths*: All the models, Fisher's theorem and emergence of culture.    
+*Weaknesses*: Replicator dynamics.
+
+### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+I struggled with replicator dynamics, so I handled the problem by referring back to the lecture notes and understood the fact that replicator dynamics accounts for both a rational strategy and rule-based strategy. I also noted that there is a weight to the payoff and proportion and that weight=pi(i) * Pr(i).  The picture on the Fisher's theorem slide helped too.
+
+### What would I do better next time and with what anticipated results?
+Actually look at the application of the replicator dynamics equation and understand it. That way, I am able to comprehend the maths and how the payoff and proportion affect a decision.
+
+### What theory proved to be useful and why? What have I learnt from this?
+Fisher's Theorem proved to be the most useful which states that the rate of adaptation is proportional to the variation in that population. I.e. we need a lot of variation to adapt to the optimal strategy. This information was useful to me as prior to learning this, I thought that variation was not particularly important when it comes to adaptation and that stability and predictability were more important (six sigma thinking).

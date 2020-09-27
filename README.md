@@ -256,3 +256,36 @@ Actually look at the application of the replicator dynamics equation and underst
 
 ### What theory proved to be useful and why? What have I learnt from this?
 Fisher's Theorem proved to be the most useful which states that the rate of adaptation is proportional to the variation in that population. I.e. we need a lot of variation to adapt to the optimal strategy. This information was useful to me as prior to learning this, I thought that variation was not particularly important when it comes to adaptation and that stability and predictability were more important (six sigma thinking).
+
+
+## Week 8
+### What have I learnt this week?
+This lecture taught me more about complexity and emergent behaviour. The lecture explored several models that show how the actions of one and the ramifications on the whole, as well as allocating resources in a range of societal contexts. 
+
+### This week I learned about:
+ - Colonel Blotto Game
+ - Prisoner's Dilemma
+ - Axelrod's Tournament (Prisoner's Dilemma related)
+ - Colletive action problems
+
+### What do I 'now know' that I did not before?
+When looking back on this lecture, I now understand these new models that explore how the actions of an individual can affect a group. Colonel Blotto's game highlighted how the allocation of resources can mean a loss or victory for a team or individual and can be used in a variety of sociopolitical contexts including court, war and sports. The winner of the game depends on how many resources are allocated for a particular component. <br>
+The Prisoner's Dilemma involves 2 players who can either defect or cooperate. Cooperation from both players is ideal, but if Player A defects and Player B attempts to cooperate, Player A will get a better payoff and vice versa so there is an incentive for them to defect. Both parties defecting is not ideal. This model is applied in arms control, pricing, technological adoption and political campaigns. Tit-for-Tat is the best strategy to combat corporate egotists who may choose to defect, this involves cooperating unless the opponent defects in which case you will defect next round. <br>
+Axelrod's PD tournament shows how actors can evolve towards a state of cooperation by using a strategy similar to Tit-for-Tat, but it is more forgiving. If the opponent defects - defect ONCE and then forgive and cooperate again. The opponent will recognise this predictable behaviour however and possibly defect when they know it is the best option for them. <br>
+Collective action problems extends the core PD, it is a collaborative effort that takes place in groups and occurs when they diverge from the social norms of a particular situation. The problem is easier to solve when the group is smaller as they can be monitored easier.
+
+### What insights have I gained?
+After gathering my thoughts on this lecture, I know more about why coporate entities defect rather than cooperate - for their own financial gain. Tit-for-Tat seemed to be a useful tactic to foster human cooperation but you can never expect when a corporation will be greedy and defect. Colonel Blotto was quite interesting to me as I realised that even though one team may have less resources, they can still prevail as the victor.
+
+### What are (my/the) perceived strengths and weaknesses that I have observed?
+*Strengths*: Colonel Blotto, Prisoner's Dilemma, Collective Action Problems.    
+*Weaknesses*: Nothing.
+
+### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+Didn't struggle too much this week as there wasn't a lot of content. Collective action problems threw me off a little bit but it seemed like common knowledge when I read over it and looked at some relevant examples in today's world.
+
+### What would I do better next time and with what anticipated results?
+Maybe I could include some more pictures in the Word document on the Tit-for-Tat topic? That way, it'll be simple to understand when I need to revise the information (I did this after).
+
+### What theory proved to be useful and why? What have I learnt from this?
+I found all the content in this lecture very interesting and it explained some events in day-to-day life. For the Prisoner's Dilemma - when a shop lowers their price on a particular item, they are defecting against their competitors in order to reap the benefits. Colonel Blotto's game was also intriguing and useful as I can apply it to some games I play that involve strategy and a finite number of resources.

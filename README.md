@@ -289,3 +289,17 @@ Maybe I could include some more pictures in the Word document on the Tit-for-Tat
 
 ### What theory proved to be useful and why? What have I learnt from this?
 I found all the content in this lecture very interesting and it explained some events in day-to-day life. For the Prisoner's Dilemma - when a shop lowers their price on a particular item, they are defecting against their competitors in order to reap the benefits. Colonel Blotto's game was also intriguing and useful as I can apply it to some games I play that involve strategy and a finite number of resources.
+
+## Group Work and Assignment
+### How did we communicate and collaborate with each other?
+Our group of 4 (including me) created a Messenger chat that we all used to communicate with each other and give updates on where we were at in the assignment. We organised meetings on MS Teams to distribute the workload between us, informed each other if we cannot attend a meeting and reminded each other of upcoming assignments and due dates. Our group chat was very active compared to other subjects that I am currently doing which was a nice change. Everyone understood when someone could not attend a meeting and replies were very quick for the most part. We all encouraged each other and did our own fair share of work.
+
+### What are (my/the) perceived strengths and weaknesses that I have observed?
+*Strengths*: Communication, encouragement, workload division, we all had a good understanding of the subject.   
+*Weaknesses*: Being unavailable, I had morning classes than my group mate had some. Then when he finished work, I started my work - meetings were hard to organise.
+
+### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+Not being available due to work and other commitments. Usually, we were all available during the 3-6pm workshop so we just met up then on MS Teams and it was fine. If we were unavailable during the workshop, we just messaged the chat and organised it there.
+
+### What would I do better next time and with what anticipated results?
+Possibly reply to the chat quicker as I was probably the slowest to reply, but I still messaged the chat as soon as I was available, so it wasn't too much of an issue.
